@@ -36,3 +36,4 @@ Provide a detailed visual analysis to convice the investors that a bike-sharing 
 Link to Dashboard - https://public.tableau.com/app/profile/vikashni.naidu/viz/NYCbikesharing_16530875621480/NYCbikesharing?publish=yes
 
 ## Summary 
+In summary, the male subscribers are the most popular users. The peak hours are 6-10am and 5-8pm. For future analysis, we can take a look into the tourism in Des Moines and analyze their transportion usage. Analyzing the weather in Des Moines would also help in our decision. Because if they have a longer cold weather the bike usage would be lower. 
